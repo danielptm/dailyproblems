@@ -14,6 +14,9 @@ const assert = chai.assert;
  * If our input was [3, 2, 1], the expected output would be [2, 3, 6].
  *
  * I think this means that you can only use 1 forloop max. O(n) time.
+ * Check this link for more info about O(n) time
+ *
+ * https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
  *
  */
 it(('initial'), () => {
